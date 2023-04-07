@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Something Primary School',
+        institution: 'Riverside Academy Primary School',
         course: 'Primary Education',
-        startYear: '2007',
+        startYear: '2006',
         endYear: '2015'
     },
     {
         id: 2,
-        institution: 'Muthale Girls High School ',
+        institution: 'St Angela\'s Girls Secondary School ',
         course: 'Secondary Education',
-        startYear: '2017',
-        endYear: '2021'
+        startYear: '2016',
+        endYear: '2019'
     },
     {
         id: 3,
         institution: 'Technical University of Kenya',
-        course: 'bachelor of science in .. ',
-        startYear: '2022',
-        endYear: 'continuing'
+        course: 'Industrial and Applied Chemistry',
+        startYear: '2020',
+        endYear: '2022'
     },
 ]
