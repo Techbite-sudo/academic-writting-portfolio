@@ -1,5 +1,5 @@
  export const skillsData = [
-    'Academic Writing',
+    'AcadeWritingmicz ',
     'Proofreading',
     'Research',
     'Formatting',
